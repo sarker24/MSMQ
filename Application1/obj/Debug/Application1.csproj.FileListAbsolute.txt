@@ -1,0 +1,6 @@
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\bin\Debug\Application1.exe.config
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\bin\Debug\Application1.exe
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\bin\Debug\Application1.pdb
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\obj\Debug\Application1.exe
+c:\Users\sarke\documents\visual studio 2015\Projects\MSMQ\Application1\obj\Debug\Application1.pdb
